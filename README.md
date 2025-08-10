@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20There,%20I'm%20[Your%20Name]!&fontAlign=50&fontAlignY=40&fontSize=35&height=200&desc=Backend%20Engineer%20•%20Game%20Dev%20•%20AI%20Learner&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20There,%20I'm%20[Aleksei%20Ezhov]!&fontAlign=50&fontAlignY=40&fontSize=35&height=200&desc=Backend%20Engineer%20•%20Game%20Dev%20•%20AI%20Learner&descAlignY=60&descAlign=50" />
 </p>
 
 ---
