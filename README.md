@@ -1,72 +1,82 @@
-<!-- ===========================
-     BLOOD-DRIPPIN' GITHUB README
-     For: pawsashatoy
-     =========================== -->
-
-# 🔪 **WELCOME TO MY CHARNEL HOUSE...** 🔪  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZ4eGc2aGJ0aGJ1Y2RkM2FqeWU0dGJ3eGZ3dXo5bW9vYzJxZ2d3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orieV5A2YbgrgM1fi/giphy.gif" alt="dripping blood gif" width="100%" />
-
+<!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/haunted-👻-ff0000?style=for-the-badge&logo=ghost" alt="haunted badge" />
-  <img src="https://img.shields.io/badge/souls-collected-666?style=for-the-badge&logo=skull" alt="souls" />
-  <img src="https://img.shields.io/badge/location-Creepy_Basement-8b0000?style=for-the-badge" alt="location" />
-  <img src="https://img.shields.io/github/followers/pawsashatoy?label=Victims&color=red&style=for-the-badge" alt="followers" />
-  <img src="https://komarev.com/ghpvc/?username=pawsashatoy&color=red&style=for-the-badge" alt="views" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U0MjlwcjJqMThwMnJ5aHcwM3Q5Y3JlNTI5aGJ0YWRiZHY5dC9yZWZyZXNoZC5naWY.gif" width="100%" alt="Cyberpunk RGB Banner">
+</p>
+
+<h1 align="center">⚡ Aleksei Mai — <code>ezhhh</code> ⚡</h1>
+<h3 align="center">
+  🚀 Backend & AI Developer | 🎮 Game Dev | 📐 Math & Algorithms
+</h3>
+
+---
+
+## 🌍 Connect With Me
+<p align="center">
+  <a href="https://t.me/pivoinfluencer">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/ezhhh">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 🩸 About The Butcher
-> *"I don't compile code - I compile screams. My IDE runs on spinal fluid and regret."*
-
-- 🔭 **Building**: Soul Harvester 9000, Midnight Snatcher OS
-- 🌱 **Learning**: Advanced Torture Techniques, Blood Pattern Analysis
-- 🧪 **Experimenting**: Traumatic Memory Implantation, Fear Amplification
-- 🦴 **Pronouns**: It/That/Thing
-- 🪓 **Motto**: *"Commit by day, kill by night"*
-
----
-
-# 🧠 CORE SKILLS
-| **Skill**                     | **Experience** | **Tools of the Trade**          |
-|-------------------------------|----------------|----------------------------------|
-| **Child Hunting**             | 13 years       | Night Vision, Candy Lures       |
-| **Organ Harvesting**          | 11 years       | Bone Saws, Cryo Tanks           |
-| **Psychological Torture**     | 9 years        | Sensory Deprivation Chambers    |
-| **Blood Rituals**             | 7 years        | Ancient Daggers, Sacrificial Altars |
-| **Blackmail Development**     | 8 years        | Hidden Cameras, Compromising Photos |
-| **Midnight Snatch Ops**       | 12 years       | Chloroform, Unmarked Vans       |
-| **Soul Corruption**           | 6 years        | Cursed Relics, Binding Runes    |
+## 🛠 Tech Arsenal
+<p align="center">
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,cs,docker,git,github,linux,maven" />
+  <!-- Game Dev -->
+  <img src="https://skillicons.dev/icons?i=unity,unreal" />
+  <!-- AI -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
 ---
 
-# 🧟 MENTAL WEAPONRY
-<details>
-<summary><b>Click to unleash nightmares...</b></summary>
-
-- **Fear Engineering Suite**  
-  `⋆⋆⋆⋆⋆ Phobia Amplification`  
-  `⋆⋆⋆⋆ Paralyzing Dread Fields`  
-  `⋆⋆⋆ Shadow Person Manifestation`  
-
-- **Trauma Specialization**  
-  `⋆⋆⋆⋆⋆ Permanent Psychological Scarring`  
-  `⋆⋆⋆⋆ Flashback Trigger Implants`  
-  `⋆⋆⋆ Childhood Memory Erasure`
-
-- **Sensory Terror Pack**  
-  `⋆⋆⋆⋆⋆ Whisper Propagation`  
-  `⋆⋆⋆⋆ Phantom Touch Simulation`  
-  `⋆⋆⋆ Uncanny Valley Enhancement`
-</details>
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ezhhh&theme=neon-palenight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ezhhh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhhh&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-# 🩸 BLOODSTAINED STATS
-```python
-while victim.alive():
-    pain_level += random.randint(50,100)
-    blood_volume -= 1.2  # pints/sec
-    if sanity <= 0:
-        harvest_organs()
-        add_to_skull_collection()
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ezhhh&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezhhh&bg_color=0f0f0f&color=00ffcc&line=ff00ff&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🎵 Now Playing on Spotify
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" />
+</p>
+
+---
+
+## 💡 Fun RGB Badges
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="70" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="70" />
+  <img src="https://media.giphy.com/media/kdP8JDWfD5Ug4/giphy.gif" width="70" />
+</p>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="RGB Footer">
+</p>
