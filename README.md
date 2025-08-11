@@ -80,15 +80,6 @@
 
 ---
 
-## 🔎 Featured / Pinned Repos
-> Add your top projects here (short description + link). Example format:
-- **[project-name](https://github.com/ezhhh/project-name)** — short one-line description (tech used)
-- **[another-project](https://github.com/ezhhh/another-project)** — short one-line description
-
-Make sure to pin the repos you want visitors to see on your GitHub profile page.
-
----
-
 ## 📫 Contact
 - Email: <a href="mailto:alexey.traven@gmail.com">alexey.traven@gmail.com</a>  
 - Telegram: [@pivoinfluencer](https://t.me/pivoinfluencer)
