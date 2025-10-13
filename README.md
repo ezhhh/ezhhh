@@ -11,10 +11,9 @@
 ## 🌍 Connect
 
 <p align="center">
-  <a href="https://t.me/pivoinfluencer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/sufferwithin"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://github.com/ezhhh"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:alexey.traven@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://open.spotify.com/user/9ldnmvel9x2zh1tf3ks5pxoc6"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </p>
 
 ---
