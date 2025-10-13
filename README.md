@@ -1,88 +1,106 @@
-<!-- ========== Animated Header ========== -->
+<!-- ========== HEADER ========== -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U0MjlwcjJqMThwMnJ5aHcwM3Q5Y3JlNTI5aGJ0YWRiZHY5dC9yZWZyZXNoZC5naWY.gif" width="100%" alt="Cyberpunk RGB Banner" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U0MjlwcjJqMThwMnJ5aHcwM3Q5Y3JlNTI5aGJ0YWRiZHY5dC9yZWZyZXNoZC5naWY.gif" width="100%" alt="Cyber Banner" />
 </p>
 
 <h1 align="center">⚡ Aleksei Mai — <code>ezhhh</code> ⚡</h1>
+<p align="center"><em>Backend & AI Developer · Game Dev · Algorithms</em></p>
+
+---
+
+## 🌍 Connect
+
 <p align="center">
-  <em>🚀 Backend & AI Developer  ·  🎮 Game Dev  ·  📐 Math & Algorithms</em>
+  <a href="https://t.me/pivoinfluencer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/ezhhh"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:alexey.traven@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://open.spotify.com/user/9ldnmvel9x2zh1tf3ks5pxoc6"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </p>
 
 ---
 
-<!-- ========== Quick Links ========== -->
-## 🌍 Connect
-<p align="center">
-  <a href="https://t.me/pivoinfluencer" title="Telegram">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://github.com/ezhhh" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:alexey.traven@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://open.spotify.com/user/9ldnmvel9x2zh1tf3ks5pxoc6" title="Spotify">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
-</p>
+## 🧠 About Me
+
+> 🌱 I believe in cooperation, trust, and understanding among people.  
+> 🏴‍☠️ My worldview leans toward anarchist ideals — a free world built on mutual respect.  
+> 💡 I love building systems that empower people and connect technology with human creativity.
+
+---
+
+## 🧪 Currently Working On
+
+🚀 **Ethereal DLC** — striving to build the highest quality Minecraft client ecosystem.  
+🔗 [ethereal.im](https://ethereal.im)
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| 🪐 **Ethereal DLC** | Premium Minecraft client ecosystem focused on quality and innovation. | [Visit Site](https://ethereal.im) |
+| 🐺 **WildClient** | Experimental Minecraft client platform. | [Visit Site](https://wildclient.org) |
 
 ---
 
 ## 🛠 Tech Arsenal
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,cs,docker,git,github,linux,maven" alt="backend icons" />
-  <img src="https://skillicons.dev/icons?i=unity,unreal" alt="game dev icons" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="ai icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,cs,docker,git,github,linux,maven" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ezhhh&theme=neon-palenight&hide_border=true" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ezhhh&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhhh&layout=compact&theme=radical&hide_border=true" alt="top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ezhhh&theme=neon-palenight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ezhhh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhhh&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Activity
+## 📈 Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezhhh&bg_color=0f0f0f&color=00ffcc&line=ff00ff&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezhhh&bg_color=0f0f0f&color=00ffcc&line=ff00ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ezhhh&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ezhhh&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 🎵 Now Playing (Spotify)
+## 🐍 Contribution Snake
+
 <p align="center">
-  <!-- Spotify card uses your Spotify user id -->
-  <a href="https://open.spotify.com/user/9ldnmvel9x2zh1tf3ks5pxoc6" title="Open Spotify profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=9ldnmvel9x2zh1tf3ks5pxoc6&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify" />
+  <img src="https://raw.githubusercontent.com/ezhhh/ezhhh/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🎵 Now Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/9ldnmvel9x2zh1tf3ks5pxoc6">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=9ldnmvel9x2zh1tf3ks5pxoc6&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" />
   </a>
 </p>
 
 ---
 
-## 💡 Fun RGB Badges
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="70" alt="badge1" />
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="70" alt="badge2" />
-  <img src="https://media.giphy.com/media/kdP8JDWfD5Ug4/giphy.gif" width="70" alt="badge3" />
-</p>
-
----
-
 ## 📫 Contact
-- Email: <a href="mailto:alexey.traven@gmail.com">alexey.traven@gmail.com</a>  
-- Telegram: [@pivoinfluencer](https://t.me/pivoinfluencer)
+
+- 📧 Email: [alexey.traven@gmail.com](mailto:alexey.traven@gmail.com)  
+- 💬 Telegram: [@pivoinfluencer](https://t.me/pivoinfluencer)
 
 ---
 
