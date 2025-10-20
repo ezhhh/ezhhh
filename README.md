@@ -1,79 +1,93 @@
-<!-- Peaceful Pastel Profile -->
-
-<h1 align="center"><span style="color:#fcbad3;">🌸 Aleksei Mai — <code>ezhhh</code> 🌸</span></h1>
-<p align="center"><em style="color:#d4a5fa;">Crypto Analyst • Game Developer • Programmer • Peaceful vibes</em></p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ezhhh&style=flat-square&color=fcbad3&label=Profile%20views" alt="Profile views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&color=FCA8E2&vCenter=true&center=true&width=1000&lines=Crypto+Analyst;Game+Developer;Creating+peaceful+experiences" alt="Typing SVG" />
+</p>
+
+<h1 align="center">✨ Aleksei Mai — ezhhh ✨</h1>
+
+<p align="center">
+  <em>Creating worlds in code &middot; Building unique experiences &middot; Crafting peace through pixels</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ezhhh&style=flat-square&color=FCA8E2" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ezhhh?label=Followers&style=flat-square&color=DEB6E3" alt="GitHub followers" />
 </p>
 
 ---
 
-### 🎮 Play a Game
+### 🎮 Play a Game!
+
+Feeling nostalgic? Try your hand at <a href="https://play2048.co/" target="_blank">2048</a> or explore the <a href="https://neal.fun/" target="_blank">fun mini‑games</a> collection.
+
+---
+
+## 🌟 About Me
+
+- 🧠 **Explorer of blockchain, AI and game development**
+- 🛠️ **Building Ethereal DLC** – the highest quality Minecraft client ecosystem
+- 📍 Living in **Ústí nad Labem, Czechia** (Prague timezone)
+- ✨ Passionate about **creating peaceful experiences** and open source
+
+---
+
+## 🔧 Tech Stack
 
 <p align="center">
-  <a href="https://play2048.co/" target="_blank">🤩 Play 2048 online</a>
+  <img src="https://skillicons.dev/icons?i=java,python,lua,cpp,js,ts,react,nodejs,mysql,mongodb&perline=6" alt="My Tech Stack" />
 </p>
 
 ---
 
-### 🔗 Connect
+## 🚀 Projects & Work
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| **Ethereal DLC** | A high‑quality Minecraft client ecosystem delivering performance, compatibility & quality. Currently under active development. | C++, Java, React, Lua, Gradle |
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://t.me/sufferwithhin"><img src="https://img.shields.io/badge/Telegram-FF69B4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://github.com/ezhhh"><img src="https://img.shields.io/badge/GitHub-d4a5fa?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:zailer@proton.me"><img src="https://img.shields.io/badge/Email-fcbad3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ezhhh&show_icons=true&hide_border=true&title_color=FCA8E2&text_color=DFACEF&icon_color=F8B3E9&bg_color=0F172A00" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ezhhh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&currStreakLabel=FCA8E2&currStreakNum=FCA8E2&sideLabels=DFACEF&sideNums=DFACEF&dates=DFACEF&background=0F172A00" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhhh&layout=compact&hide_border=true&title_color=FCA8E2&text_color=DFACEF&bg_color=0F172A00" alt="Top Languages" />
 </p>
 
 ---
 
-### 👋 About Me
-
-- 🧠 I love exploring blockchain, AI and game development.
-- 🎮 Currently building the highest quality Minecraft client ecosystem (**Ethereal DLC**).
-- 📍 Based in Úští nad Labem, Czechia (Europe/Prague timezone).
-- ✨ Passionate about creating peaceful experiences and open source.
-
----
-
-### 🛠️ Tech Stack
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,react,tailwind,git,linux&perline=8" alt="My Skills"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ezhhh&theme=flat&no-frame=true&title=Stars,Followers,Commits,Repositories&margin-w=15&margin-h=15&column=4" alt="Trophies" />
 </p>
 
 ---
 
-### 🚀 Projects & Work
-
-**Ethereal DLC** – striving to build the highest quality Minecraft client ecosystem.  
-[Lethereal.im](https://lethereal.im)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezhhh&show_icons=true&hide_rank=false&custom_title=ezhhh%27s%20GitHub%20Stats&border_radius=15&title_color=fcbad3&text_color=d4a5fa&icon_color=fcbad3&bg_color=0,00000000&hide_border=true" alt="ezhhh's GitHub stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ezhhh&theme=radical&background=FFFFFF00&border=FFFFFF00&stroke=6667AB&ring=fcbad3&currStreakNum=fcbad3&fire=fcbad3&dates=d4a5fa&hide_border=true" alt="ezhhh's GitHub streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhhh&layout=compact&border_radius=15&title_color=fcbad3&text_color=d4a5fa&bg_color=0,00000000&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ezhhh&no-bg=true&no-frame=true&theme=flat&title=Champion,Commit,Stars,Followers&title_color=fcbad3&text_color=d4a5fa&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
+## 🕒 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ezhhh/ezhhh/output/github-contribution-grid-snake.svg?palette=purple">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ezhhh/ezhhh/output/github-contribution-grid-snake.svg?palette=rose">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ezhhh/ezhhh/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ezhhh/ezhhh/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ezhhh/ezhhh/output/dist/github-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ezhhh/ezhhh/output/dist/github-snake.svg" />
   </picture>
 </p>
+
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezhhh&bg_color=0F172A00&color=FCA8E2&line=DEB6E3&point=FCA8E2&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+🎨 *Designed with love and pastel vibes*
