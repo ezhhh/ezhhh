@@ -1,7 +1,4 @@
 <!-- Peaceful Pastel Profile -->
-<p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjIwMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2Q0YTVmYSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmY2JhZDMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0idXJsKCNncmFkKSIvPgo8L3N2Zz4=" width="100%" alt="Pastel Banner"/>
-</p>
 
 <h1 align="center"><span style="color:#fcbad3;">🌸 Aleksei Mai — <code>ezhhh</code> 🌸</span></h1>
 <p align="center"><em style="color:#d4a5fa;">Crypto Analyst • Game Developer • Programmer • Peaceful vibes</em></p>
