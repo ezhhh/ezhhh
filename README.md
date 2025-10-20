@@ -59,35 +59,3 @@ Feeling nostalgic? Try your hand at <a href="https://play2048.co/" target="_blan
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhhh&layout=compact&hide_border=true&title_color=FCA8E2&text_color=DFACEF&bg_color=0F172A00" alt="Top Languages" />
 </p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ezhhh&theme=flat&no-frame=true&title=Stars,Followers,Commits,Repositories&margin-w=15&margin-h=15&column=4" alt="Trophies" />
-</p>
-
----
-
-## 🕒 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ezhhh/ezhhh/output/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ezhhh/ezhhh/output/dist/github-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ezhhh/ezhhh/output/dist/github-snake.svg" />
-  </picture>
-</p>
-
----
-
-## 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezhhh&bg_color=0F172A00&color=FCA8E2&line=DEB6E3&point=FCA8E2&area=true" alt="Activity Graph" />
-</p>
-
----
-
-🎨 *Designed with love and pastel vibes*
