@@ -1,77 +1,82 @@
-<!-- Bright Interactive Profile -->
+<!-- Peaceful Pastel Profile -->
 <p align="center">
-  <img src="https://i.giphy.com/media/V1.Y2lkPTc5MG1JSjExb2umjWcjq3qMThwQd3c0yZWZYZkZXN0cG5naVY.gif" width="100%" alt="Bright Banner" />
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjIwMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2Q0YTVmYSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmY2JhZDMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0idXJsKCNncmFkKSIvPgo8L3N2Zz4=" width="100%" alt="Pastel Banner"/>
 </p>
 
-<h1 align="center">✨ Aleksei Mai — <code>ezhhh</code> ✨</h1>
-<p align="center"><em>Crypto Analyst, Game Developer &amp; Programmer</em></p>
+<h1 align="center"><span style="color:#fcbad3;">🌸 Aleksei Mai — <code>ezhhh</code> 🌸</span></h1>
+<p align="center"><em style="color:#d4a5fa;">Crypto Analyst • Game Developer • Programmer • Peaceful vibes</em></p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ezhhh&style=flat-square&color=brightgreen" alt="Profile views" />
-</p>
-
----
-
-## 🎮 Play a Game!
-
-<p align="center">
-  <a href="https://play2048.co/" target="_blank">🎥 <strong>Play 2048 online</strong></a>
+  <img src="https://komarev.com/ghpvc/?username=ezhhh&style=flat-square&color=fcbad3&label=Profile%20views" alt="Profile views"/>
 </p>
 
 ---
 
-## 🌐 Connect
+### 🎮 Play a Game
 
 <p align="center">
-  <a href="https://t.me/sufferwithin"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://github.com/ezhhh"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:alexey.traven@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://play2048.co/" target="_blank">🤩 Play 2048 online</a>
 </p>
 
 ---
 
-## ✨ About Me
-
-- 🌱 I thrive on cooperation, trust and understanding among people.  
-- ☠️ My worldview leans toward anarchist ideals — a free world built on mutual respect.  
-- 🚀 I love building systems that empower people and connect technology with human creativity.
-
----
-
-## 🛠️ Tech Stack
+### 🔗 Connect
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,git,maven,docker,kubernetes,redis,mysql,linux" alt="Tech stack icons" />
+  <a href="https://t.me/sufferwithhin"><img src="https://img.shields.io/badge/Telegram-FF69B4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://github.com/ezhhh"><img src="https://img.shields.io/badge/GitHub-d4a5fa?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:zailer@proton.me"><img src="https://img.shields.io/badge/Email-fcbad3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-## 🚀 Projects & Work
+### 👋 About Me
 
-**Ethereal DLC** — striving to build the highest quality Minecraft client ecosystem.  
-[Lethereal.im](https://ethereal.im)
+- 🧠 I love exploring blockchain, AI and game development.
+- 🎮 Currently building the highest quality Minecraft client ecosystem (**Ethereal DLC**).
+- 📍 Based in Úští nad Labem, Czechia (Europe/Prague timezone).
+- ✨ Passionate about creating peaceful experiences and open source.
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezhhh&show_icons=true&theme=radical" alt="ezhhh's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezhhh&theme=radical" alt="ezhhh's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhhh&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,react,tailwind,git,linux&perline=8" alt="My Skills"/>
 </p>
 
 ---
 
-## 🎖️ Achievements
+### 🚀 Projects & Work
+
+**Ethereal DLC** – striving to build the highest quality Minecraft client ecosystem.  
+[Lethereal.im](https://lethereal.im)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ezhhh&theme=discord&column=6" alt="GitHub Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ezhhh&show_icons=true&hide_rank=false&custom_title=ezhhh%27s%20GitHub%20Stats&border_radius=15&title_color=fcbad3&text_color=d4a5fa&icon_color=fcbad3&bg_color=0,00000000&hide_border=true" alt="ezhhh's GitHub stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ezhhh&theme=radical&background=FFFFFF00&border=FFFFFF00&stroke=6667AB&ring=fcbad3&currStreakNum=fcbad3&fire=fcbad3&dates=d4a5fa&hide_border=true" alt="ezhhh's GitHub streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhhh&layout=compact&border_radius=15&title_color=fcbad3&text_color=d4a5fa&bg_color=0,00000000&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+### 🏆 Achievements
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ezhhh/ezhhh/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ezhhh&no-bg=true&no-frame=true&theme=flat&title=Champion,Commit,Stars,Followers&title_color=fcbad3&text_color=d4a5fa&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ezhhh/ezhhh/output/github-contribution-grid-snake.svg?palette=purple">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ezhhh/ezhhh/output/github-contribution-grid-snake.svg?palette=rose">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ezhhh/ezhhh/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
