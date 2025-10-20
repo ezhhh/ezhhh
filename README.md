@@ -1,10 +1,12 @@
 <!-- ========== HEADER ========== -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U0MjlwcjJqMThwMnJ5aHcwM3Q5Y3JlNTI5aGJ0YWRiZHY5dC9yZWZyZXNoZC5naWY.gif" width="100%" alt="Cyber Banner" />
+  <img src="https://i.giphy.com/media/V1.Y2lkPTc5MG1JSjExb2umjWcjq3qMThwQd3c0yZWZYZkZXN0cG5naVY.gif" width="100%" alt="Cyber Banner" />
 </p>
-
-<h1 align="center">⚡ Aleksei Mai — <code>ezhhh</code> ⚡</h1>
-<p align="center"><em>Backend & AI Developer · Game Dev · Algorithms</em></p>
+<h1 align="center">✨ Aleksei Mai — <code>ezhhh</code> ✨</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ezhhh&style=flat-square&color=blue" alt="Profile views" />
+</p>
+<p align="center"><em>Backend &amp; AI Developer &middot; Game Dev &middot; Algorithms</em></p>
 
 ---
 
